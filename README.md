@@ -1,8 +1,9 @@
 # Engenharia de Software I (20242)
 # Nome dos integrantes do grupo:
-1) Fulano
-2) Sicrano
-3) Beltrano
+1) Barbara Moeller
+2) Vitor Fiametti
+3) Julia Hackenhaar
+4) José Paludo
 
 ## Casos de uso do sistema de reserva de passagens aéreas
 Tabelas com a descrição dos casos de uso
